@@ -1,0 +1,27 @@
+{
+  "workbench.colorCustomizations": {
+    "[Xcode Default Dark Customized Version]": {
+      "activityBar.background": "#282831",
+      "peekViewResult.background": "#282831",
+      "peekViewTitle.background": "#282831",
+      "sideBar.background": "#282831",
+      "list.hoverBackground": "#2f3239"
+    }
+  },
+  "editor.tokenColorCustomizations": {
+    "[Xcode Default Dark Customized Version]": {
+      "textMateRules": [
+        {
+          "scope": [
+            "meta.object.member.ts",
+            "meta.objectliteral.ts",
+            "punctuation.terminator.statement"
+          ],
+          "settings": {
+            "foreground": "#FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+}
