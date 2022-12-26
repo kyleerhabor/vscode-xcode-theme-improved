@@ -6,7 +6,7 @@ This theme tinkers with the original Xcode Default Dark Customized Version theme
 
 ## Deprecated
 
-Xcode Theme's updated theme pretty much obsoleted the need for this version.
+Xcode Theme's updated theme pretty much obsoletes the need for this version.
 
 ## Installation
 
