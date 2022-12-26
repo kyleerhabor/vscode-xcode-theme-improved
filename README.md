@@ -4,6 +4,10 @@ An improved version of [Xcode Theme][xcode-theme] for Visual Studio Code.
 
 This theme tinkers with the original Xcode Default Dark Customized Version theme to add some theming important to me, such as the color of semicolons and highlight of selected items from the sidebar.
 
+## Deprecated
+
+Xcode Theme's updated theme pretty much obsoleted the need for this version.
+
 ## Installation
 
 1. Install [Xcode Theme][xcode-theme]
